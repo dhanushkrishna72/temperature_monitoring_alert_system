@@ -1,0 +1,10 @@
+*.elf
+*.hex
+*.bin
+*.eep
+*.map
+*.obj
+/.pioenvs/
+.build/
+.DS_Store
+.vscode/
