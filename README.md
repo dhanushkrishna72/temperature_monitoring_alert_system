@@ -6,6 +6,7 @@
 
 ## Project summary
 A compact embedded system that monitors temperature in real-time using an LM35 (or NTC thermistor) connected to an Arduino Nano/Uno. The system reads analog sensor values via the ATmega328P ADC, converts them into °C, and raises an audible alert via a buzzer when the temperature exceeds a configurable threshold. Serial output is used for debugging and calibration.
+checkout: [project drive link](https://drive.google.com/drive/folders/17z5s0GhKM8v2nqOlKFtRh3XV308lrLTc?usp=sharing)
 
 ## Features
 -> Real-time temperature reading (°C)
